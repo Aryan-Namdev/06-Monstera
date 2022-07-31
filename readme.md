@@ -11,7 +11,7 @@
 ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
 
 * ## Link for netlify:
-    [Law Company site](https://law-company-project.netlify.app/)
+    [Monstera Site](https://monstera-site-6.netlify.app/)
 
 
  * ## Overview
@@ -22,7 +22,7 @@
     1. Pseudo elements.
 
 * ## Honest time taken to complete the project:
-    __Around Four hours__
+    __Around Three hours__
 
 
 
